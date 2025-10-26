@@ -7,7 +7,7 @@ Please go to the **new repository**: [github.com/runnova/NovaOS](https://github.
 # NovaOS
 The open-source, stable, fully-local web desktop system, made for every modern browser and device.
 
-[Homepage](https://runnova.github.io/NovaOS/) | [Docs](https://novaos.gitbook.io/novaos-docs) | [Discord](https://discord.gg/atkqbwEQU8) [ Join for News, polls and more ]
+[Homepage](https://sakifnewaj.github.io/SNOS/) | [Docs](https://novaos.gitbook.io/novaos-docs) | [Discord](https://discord.gg/atkqbwEQU8) [ Join for News, polls and more ]
 
 ```txt
 Version: 2.1
