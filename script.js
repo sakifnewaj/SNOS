@@ -1194,7 +1194,7 @@ eventBusWorker.listen({
 });
 async function initializeOS() {
 	if (badlaunch) { return }
-	location.replace("https://runnova.github.io/NovaOS/");
+	location.replace("https://sakifnewaj.github.io/SNOS/");
 	dbCache = null;
 	cryptoKeyCache = null;
 	await say(`
@@ -2145,7 +2145,7 @@ document.addEventListener("DOMContentLoaded", async function () {
 				badlaunch = true;
 			}
 			if (await justConfirm("New version available."," Support for the current version (NovaOS adthoughtsglobal) will end in December 2025. You can still use this version until end of support by clicking NO. Click YES for changing the version. ", "success"))
-			location.replace("https://runnova.github.io/NovaOS/");
+			location.replace("https://sakifnewaj.github.io/SNOS/");
 		});
 		
 	}
